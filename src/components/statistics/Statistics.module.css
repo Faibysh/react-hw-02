@@ -1,0 +1,22 @@
+.statistics {
+  padding-left: 15px;
+}
+
+.list {
+  text-transform: uppercase;
+  border-bottom: 1px solid #ccc;
+  width: 95px;
+  padding-bottom: 5px;
+}
+
+.total {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 35px;
+
+}
+
+.positive {
+  font-weight: bold;
+  text-transform: uppercase;
+}

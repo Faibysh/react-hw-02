@@ -1,0 +1,16 @@
+html {
+  background-color: #ccc;
+}
+
+.app {
+  align-items: center;
+  background-color: #fff;
+  border-radius: 50px;
+  box-shadow: 0 4px 10px #000;
+  display: block;
+  justify-content: center;
+  margin: 75px auto;
+  max-width: 350px;
+  padding: 30px;
+  gap: 15px;
+}
